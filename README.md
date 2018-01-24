@@ -24,6 +24,7 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
+https://pacific-peak-75300.herokuapp.com/
 
 #### Framework of choice
 React
